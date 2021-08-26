@@ -1,6 +1,6 @@
 const prefix = ","
 module.exports = {
-    token: "ODM3Njc5MTIyODAwMDUwMjE3.YIwDeg.oTmuyRyswg-EANgK-4Q3xBF3lpA",
+    token: "ODM3Njc5MTIyODAwMDUwMjE3.YIwDeg.9UMyUsSu0dZwzIGZCbETNDgEURU",
     version: "1.0.0",
     prefix: ",",
     user: "Mateusz Jóźwiak",
